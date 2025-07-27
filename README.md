@@ -25,7 +25,7 @@
 
 - 🚀 Android Developer | Kotlin enthusiast  
 - 💡 Passionate about scalable, clean, and elegant mobile apps  
-- 📱 Skilled in Jetpack Compose, Clean Architecture, MVVM, Retrofit, Room, Coroutines, Hilt  
+- 📱 Skilled in Jetpack Compose, XML, Clean Architecture, MVVM, Retrofit, Room, Coroutines, Hilt  
 - 🎯 Focused on writing maintainable and testable code  
 - 📚 Constantly learning and exploring new technologies  
 
