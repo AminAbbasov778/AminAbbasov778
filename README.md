@@ -19,15 +19,18 @@
 
 <h1 align="center">Hey there 👋 I'm Amin Abbasov</h1>
 
+<p align="center"><i>"Build apps that matter, with architecture that lasts." — <b>Amin Abbasov</b></i></p>
+
 ---
 
 ### 👨‍💻 About Me
 
 - 🚀 Android Developer | Kotlin enthusiast  
-- 💡 Passionate about scalable, clean, and elegant mobile apps  
-- 📱 Skilled in Jetpack Compose, XML, Clean Architecture, MVVM, Retrofit, Room, Coroutines, Hilt  
-- 🎯 Focused on writing maintainable and testable code  
-- 📚 Constantly learning and exploring new technologies  
+- 💡 Passionate about building scalable, clean, and modern mobile applications  
+- 📱 Skilled in Jetpack Compose, XML, Clean Architecture, MVVM, Retrofit, Room, Coroutines, Hilt, Navigation, Firebase, DataStore, and more  
+- 🧠 Strong focus on writing maintainable, modular, and testable code  
+- 🎯 Advocate of SOLID principles, separation of concerns, and architecture that lasts  
+- 📚 Lifelong learner — always exploring new tools, libraries, and best practices  
 
 ---
 
@@ -46,24 +49,45 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
   </a>
   <img width="15"/>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank">
+    <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/6d3/7f5/efc/6d37f5efc14ce0b43ef9717bf24e5155.png" height="40" alt="Jetpack Compose" />
+  </a>
+  <img width="15"/>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase" />
+  </a>
+  <img width="15"/>
+  <a href="https://square.github.io/retrofit/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/squareup/squareup-icon.svg" height="40" alt="Retrofit" />
+  </a>
+  <img width="15"/>
+  <a href="https://developer.android.com/jetpack/androidx/releases/room" target="_blank">
+    <img src="https://seeklogo.com/images/R/room-logo-7992D8D06F-seeklogo.com.png" height="40" alt="Room" />
+  </a>
+  <img width="15"/>
+  <a href="https://developer.android.com/kotlin/coroutines" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Kotlin_Icon.svg" height="40" alt="Coroutines" />
+  </a>
+  <img width="15"/>
+  <a href="https://dagger.dev/hilt/" target="_blank">
+    <img src="https://seeklogo.com/images/D/dagger-logo-6F79C928F5-seeklogo.com.png" height="40" alt="Hilt" />
+  </a>
+  <img width="15"/>
+  <a href="https://developer.android.com/topic/libraries/architecture/viewmodel" target="_blank">
+    <img src="https://developer.android.com/images/jetpack/architecture-viewmodel.svg" height="40" alt="ViewModel" />
+  </a>
+  <img width="15"/>
+  <a href="https://developer.android.com/jetpack/androidx/releases/datastore" target="_blank">
+    <img src="https://seeklogo.com/images/G/google-firebase-logo-117F90B5DD-seeklogo.com.png" height="40" alt="DataStore" />
+  </a>
+  <img width="15"/>
+  <a href="https://developer.android.com/guide/navigation" target="_blank">
+    <img src="https://developer.android.com/images/jetpack/compose/compose-navigation.svg" height="40" alt="Navigation" />
   </a>
   <img width="15"/>
   <a href="https://figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   </a>
-  <img width="15"/>
-  <a href="https://m3.material.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" />
-  </a>
-  <img width="15"/>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/6d3/7f5/efc/6d37f5efc14ce0b43ef9717bf24e5155.png" height="40" alt="Jetpack Compose" />
-  </a>
 </div>
-
----
-
 
 ---
