@@ -58,7 +58,7 @@
   </a>
   <img width="15"/>
   <a href="https://square.github.io/retrofit/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/squareup/squareup-icon.svg" height="40" alt="Retrofit" />
+    <img src="https://beingwell.yale.edu/sites/default/files/event-images/retrofit_app2.png" height="40" alt="Retrofit" />
   </a>
   <img width="15"/>
   <a href="https://developer.android.com/jetpack/androidx/releases/room" target="_blank">
