@@ -12,12 +12,12 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AminAbbasov778.AminAbbasov778&left_color=navy" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AminAbbasov778.AminAbbasov778&left_color=navy&right_color=cyan" alt="visitor badge"/>
 </div>
 
 ---
 
-<h1 align="center">Hey there 👋 I'm Amin Abbasov</h1>
+<h1 align="center">👋 Hey there, I'm Amin Abbasov</h1>
 
 <p align="center"><i>"Build apps that matter, with architecture that lasts." — <b>Amin Abbasov</b></i></p>
 
@@ -25,18 +25,18 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Android Developer | Kotlin enthusiast  
+- 🚀 Android Developer | Kotlin Enthusiast  
 - 💡 Passionate about building scalable, clean, and modern mobile applications  
-- 📱 Skilled in Jetpack Compose, XML, Clean Architecture, MVVM, Retrofit, Room, Coroutines, Hilt, Navigation, Firebase, and more  
-- 🧠 Strong focus on writing maintainable, modular, and testable code  
-- 🎯 Advocate of SOLID principles, separation of concerns, and architecture that lasts  
-- 📚 Lifelong learner — always exploring new tools, libraries, and best practices  
+- 📱 Skilled in Jetpack Compose, XML, Clean Architecture, MVVM, Retrofit, Room, Coroutines, Hilt, Navigation, Firebase  
+- 🧠 Focused on writing maintainable, modular, and testable code  
+- 🎯 Advocate of SOLID principles and separation of concerns  
+- 📚 Lifelong learner, always exploring new tools and best practices  
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="left">
+<div align="center">
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
   </a>
@@ -63,3 +63,15 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AminAbbasov778&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminAbbasov778&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+</div>
+
+---
+
+<div align="center">
+  <p><i>Code. Innovate. Repeat.</i></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=00D4FF&center=true&vCenter=true&width=450&lines=Building+the+Future+of+Android+Apps" alt="Typing SVG"/>
+</div>
