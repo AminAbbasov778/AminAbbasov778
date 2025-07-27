@@ -19,11 +19,14 @@
 
 <h1 align="center">Hey there 👋 I'm Amin Abbasov</h1>
 
+---
+
 ### 👨‍💻 About Me
 
 - 🚀 Android Developer | Kotlin enthusiast  
 - 💡 Passionate about scalable, clean, and elegant mobile apps  
 - 📱 Skilled in Jetpack Compose, Clean Architecture, MVVM, Retrofit, Room, Coroutines, Hilt  
+- 🎯 Focused on writing maintainable and testable code  
 - 📚 Constantly learning and exploring new technologies  
 
 ---
@@ -31,22 +34,36 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
+  </a>
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android" />
+  </a>
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
+  </a>
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase" />
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase" />
+  </a>
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <a href="https://figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  </a>
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" />
+  <a href="https://m3.material.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="Material UI" />
+  </a>
+  <img width="15"/>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank">
+    <img src="https://developer.android.com/images/jetpack/compose-hero.svg" height="40" alt="Jetpack Compose" />
+  </a>
 </div>
 
 ---
 
-> “Build apps that matter, with architecture that lasts.” — *Amin Abbasov*
 
 ---
-
