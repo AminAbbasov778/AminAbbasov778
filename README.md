@@ -59,7 +59,7 @@
   </a>
   <img width="15"/>
   <a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img src="https://developer.android.com/images/jetpack/compose-hero.svg" height="40" alt="Jetpack Compose" />
+    <img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/6d3/7f5/efc/6d37f5efc14ce0b43ef9717bf24e5155.png" height="40" alt="Jetpack Compose" />
   </a>
 </div>
 
