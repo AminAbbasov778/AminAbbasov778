@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Amin Abbasov<br><br><br>🚀 Android Developer | Kotlin <br>📱 Passionate about building scalable and user-friendly mobile applications<br>💡 Experienced in Retrofit, Room, Coroutines, Hilt, and MVVM<br>🔍 Always learning and improving</p>
+<p align="left">I'm Amin Abbasov<br><br><br>🚀 Android Developer | Kotlin <br>📱 Passionate about building scalable and user-friendly mobile applications<br>💡 Experienced in Jetpack Compose,Clean Architecture, Retrofit, Room, Coroutines, Hilt, and MVVM<br>🔍 Always learning and improving</p>
 
 ###
 
