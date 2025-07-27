@@ -27,7 +27,7 @@
 
 - 🚀 Android Developer | Kotlin Enthusiast  
 - 💡 Passionate about building scalable, clean, and modern mobile applications  
-- 📱 Skilled in Jetpack Compose, XML, Clean Architecture, MVVM, Retrofit, Room, Coroutines, Hilt, Navigation, Firebase  
+- 📱 Skilled in Jetpack Compose, XML, Clean Architecture, MVVM, Retrofit, Room, Coroutines, Hilt, Navigation, Firebase, and more
 - 🧠 Focused on writing maintainable, modular, and testable code  
 - 🎯 Advocate of SOLID principles and separation of concerns  
 - 📚 Lifelong learner, always exploring new tools and best practices  
@@ -64,12 +64,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AminAbbasov778&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminAbbasov778&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-</div>
 
----
 
 <div align="center">
   <p><i>Code. Innovate. Repeat.</i></p>
